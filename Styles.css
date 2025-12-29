@@ -1,2 +1,23 @@
 /*Je suis un commentaire*/
-body {background-color: red;}
+body {
+    background-color: white;
+}
+
+#p1 {
+    color:blue;
+}
+
+#para {
+    font-weight: bold;
+}
+.p1 {
+    color: red;
+}
+
+/* h1,p{
+    font-size:8px;
+    color:blue;
+    font-weight: bold;
+
+} */
+
