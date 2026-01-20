@@ -1,10 +1,23 @@
 /*Je suis un commentaire*/
 body {
-    background-color: white;
+    /*background-color: white;*/
+    font-family:'Open Sans';
+}
+
+h1 {
+    font-size: 100px;
+    font-style: italic;
+    text-align: center;
+
+}
+
+p {
+    font-size: 150%;
+    font-style: oblique;
 }
 
 #p1 {
-    color:blue;
+    color:Silver;
 }
 
 #para {
