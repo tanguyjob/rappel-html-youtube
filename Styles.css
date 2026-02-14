@@ -8,6 +8,7 @@ h1 {
     font-size: 100px;
     font-style: italic;
     text-align: center;
+    text-transform: uppercase;
 
 }
 
@@ -25,6 +26,23 @@ p {
 }
 .p1 {
     color: red;
+    text-transform: uppercase;
+    /*text-align: right;*/
+}
+
+.p2{
+    text-transform: capitalize;
+    text-indent: 50px;
+}
+
+.P12{
+    letter-spacing:2px;
+    word-spacing:10px;
+}
+
+.p22{
+    letter-spacing: -20px;
+    text-align: right;
 }
 
 .div-para {
@@ -33,6 +51,11 @@ p {
 
 .span-trois {
     color: blue;
+}
+
+a{
+    text-decoration: none;
+    color: black;
 }
 /* h1,p{
     font-size:8px;
