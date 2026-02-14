@@ -4,6 +4,19 @@ body {
     font-family:'Open Sans';
 }
 
+.div3 {
+    background-color: #088;
+    height:400px;
+    width:500px;
+    /*padding: 20px; */
+   
+    margin: 20px;
+    border:15px ridge black;
+    border-top-left-radius:15px;
+
+}
+
+
 h1 {
     font-size: 100px;
     font-style: italic;
@@ -36,13 +49,23 @@ p {
 }
 
 .P12{
-    letter-spacing:2px;
-    word-spacing:10px;
+    height: 100px;
+    width:400px;
+    /* letter-spacing:2px;
+    word-spacing:10px; */
+}
+
+.p13 {
+    height: 100px;
+    width:50%;
+    /* padding: 60px; */
+    background-color: blue;
+    border:2px dashed yellow;
 }
 
 .p22{
-    letter-spacing: -20px;
-    text-align: right;
+    /* letter-spacing: -20px;
+    text-align: right; */
 }
 
 .div-para {
